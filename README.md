@@ -1,6 +1,6 @@
 # ImageNumberReader
 
-Neural network recognizes number on image
+Neural network recognizes number on image.
 
 <img src="/image/imagereader1.PNG" alt=""/>
 
